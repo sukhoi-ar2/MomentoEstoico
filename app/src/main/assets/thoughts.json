@@ -1,0 +1,2862 @@
+{
+ "authors": {
+  "marco": {
+   "es": "Marco Aurelio",
+   "fr": "Marc Aurèle"
+  },
+  "seneca": {
+   "es": "Séneca",
+   "fr": "Sénèque"
+  },
+  "epicteto": {
+   "es": "Epicteto",
+   "fr": "Épictète"
+  },
+  "musonio": {
+   "es": "Musonio Rufo",
+   "fr": "Musonius Rufus"
+  },
+  "zenon": {
+   "es": "Zenón de Citio",
+   "fr": "Zénon de Kition"
+  },
+  "cleantes": {
+   "es": "Cleantes",
+   "fr": "Cléanthe"
+  },
+  "hierocles": {
+   "es": "Hierocles",
+   "fr": "Hiéroclès"
+  },
+  "heraclito": {
+   "es": "Heráclito",
+   "fr": "Héraclite"
+  },
+  "socrates": {
+   "es": "Sócrates",
+   "fr": "Socrate"
+  },
+  "diogenes": {
+   "es": "Diógenes de Sinope",
+   "fr": "Diogène de Sinope"
+  },
+  "ciceron": {
+   "es": "Cicerón",
+   "fr": "Cicéron"
+  },
+  "boecio": {
+   "es": "Boecio",
+   "fr": "Boèce"
+  },
+  "montaigne": {
+   "es": "Montaigne",
+   "fr": "Montaigne"
+  },
+  "spinoza": {
+   "es": "Spinoza",
+   "fr": "Spinoza"
+  },
+  "pascal": {
+   "es": "Pascal",
+   "fr": "Pascal"
+  },
+  "epicuro": {
+   "es": "Epicuro",
+   "fr": "Épicure"
+  },
+  "musashi": {
+   "es": "Miyamoto Musashi",
+   "fr": "Miyamoto Musashi"
+  },
+  "tsunetomo": {
+   "es": "Yamamoto Tsunetomo",
+   "fr": "Yamamoto Tsunetomo"
+  },
+  "nitobe": {
+   "es": "Inazō Nitobe",
+   "fr": "Inazō Nitobe"
+  },
+  "takuan": {
+   "es": "Takuan Sōhō",
+   "fr": "Takuan Sōhō"
+  },
+  "confucio": {
+   "es": "Confucio",
+   "fr": "Confucius"
+  },
+  "proverbio-jp": {
+   "es": "Proverbio japonés",
+   "fr": "Proverbe japonais"
+  }
+ },
+ "works": {
+  "med": {
+   "es": "Meditaciones",
+   "fr": "Pensées pour moi-même"
+  },
+  "luc": {
+   "es": "Cartas a Lucilio",
+   "fr": "Lettres à Lucilius"
+  },
+  "brev": {
+   "es": "Sobre la brevedad de la vida",
+   "fr": "De la brièveté de la vie"
+  },
+  "ira": {
+   "es": "Sobre la ira",
+   "fr": "De la colère"
+  },
+  "prov": {
+   "es": "Sobre la providencia",
+   "fr": "De la providence"
+  },
+  "vb": {
+   "es": "Sobre la vida feliz",
+   "fr": "De la vie heureuse"
+  },
+  "tranq": {
+   "es": "Sobre la tranquilidad del alma",
+   "fr": "De la tranquillité de l'âme"
+  },
+  "benef": {
+   "es": "Sobre los beneficios",
+   "fr": "Des bienfaits"
+  },
+  "ench": {
+   "es": "Enquiridión",
+   "fr": "Manuel"
+  },
+  "disc": {
+   "es": "Disertaciones",
+   "fr": "Entretiens"
+  },
+  "frag": {
+   "es": "Fragmentos",
+   "fr": "Fragments"
+  },
+  "muslec": {
+   "es": "Disertaciones",
+   "fr": "Entretiens"
+  },
+  "dl": {
+   "es": "Diógenes Laercio, Vidas",
+   "fr": "Diogène Laërce, Vies"
+  },
+  "citench": {
+   "es": "Citado en el Enquiridión",
+   "fr": "Cité dans le Manuel"
+  },
+  "citsen": {
+   "es": "Citado por Séneca, Cartas a Lucilio",
+   "fr": "Cité par Sénèque, Lettres à Lucilius"
+  },
+  "stob": {
+   "es": "Fragmento conservado por Estobeo",
+   "fr": "Fragment conservé par Stobée"
+  },
+  "apol": {
+   "es": "Platón, Apología de Sócrates",
+   "fr": "Platon, Apologie de Socrate"
+  },
+  "gorg": {
+   "es": "Platón, Gorgias",
+   "fr": "Platon, Gorgias"
+  },
+  "crit": {
+   "es": "Platón, Critón",
+   "fr": "Platon, Criton"
+  },
+  "tusc": {
+   "es": "Disputaciones tusculanas",
+   "fr": "Tusculanes"
+  },
+  "offic": {
+   "es": "Sobre los deberes",
+   "fr": "Des devoirs"
+  },
+  "fam": {
+   "es": "Cartas a los familiares",
+   "fr": "Lettres familières"
+  },
+  "planc": {
+   "es": "En defensa de Plancio",
+   "fr": "Pour Plancius"
+  },
+  "cons": {
+   "es": "Consolación de la filosofía",
+   "fr": "Consolation de Philosophie"
+  },
+  "essais": {
+   "es": "Ensayos",
+   "fr": "Essais"
+  },
+  "etica": {
+   "es": "Ética",
+   "fr": "Éthique"
+  },
+  "tpol": {
+   "es": "Tratado político",
+   "fr": "Traité politique"
+  },
+  "pens": {
+   "es": "Pensamientos",
+   "fr": "Pensées"
+  },
+  "menec": {
+   "es": "Carta a Meneceo",
+   "fr": "Lettre à Ménécée"
+  },
+  "gorin": {
+   "es": "El libro de los cinco anillos",
+   "fr": "Traité des cinq roues"
+  },
+  "dokkodo": {
+   "es": "Dokkōdō, el camino de la soledad",
+   "fr": "Dokkōdō, la Voie à suivre seul"
+  },
+  "hagakure": {
+   "es": "Hagakure",
+   "fr": "Hagakure"
+  },
+  "bushido": {
+   "es": "Bushidō, el alma de Japón",
+   "fr": "Bushidō, l'âme du Japon"
+  },
+  "fudochi": {
+   "es": "La mente sin trabas",
+   "fr": "L'esprit sans entraves"
+  },
+  "anal": {
+   "es": "Analectas",
+   "fr": "Entretiens"
+  },
+  "trad": {
+   "es": "Tradición",
+   "fr": "Tradition"
+  }
+ },
+ "thoughts": [
+  {
+   "id": "ma-1-1",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "I, 1",
+   "text": {
+    "es": "De mi abuelo Vero: la bondad y la serenidad de carácter.",
+    "fr": "De mon grand-père Vérus : la bonté et l'égalité d'humeur."
+   }
+  },
+  {
+   "id": "ma-2-1",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "II, 1",
+   "text": {
+    "es": "Al amanecer, dite a ti mismo: hoy me encontraré con gente entrometida, ingrata, insolente. Pero yo, que he comprendido la naturaleza del bien y del mal, no puedo ser dañado por ninguno de ellos.",
+    "fr": "Dès l'aurore, dis-toi : je rencontrerai aujourd'hui un indiscret, un ingrat, un insolent. Mais moi, qui ai compris la nature du bien et du mal, je ne puis être lésé par aucun d'eux."
+   }
+  },
+  {
+   "id": "ma-2-4",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "II, 4",
+   "text": {
+    "es": "Recuerda desde cuándo vienes aplazando esto. Tienes un tiempo limitado: si no lo usas para serenarte, pasará, y tú pasarás, y no volverá.",
+    "fr": "Souviens-toi depuis combien de temps tu remets cela. Ton temps est limité : si tu ne t'en sers pas pour faire la sérénité en toi, il passera, tu passeras, et il ne reviendra plus."
+   }
+  },
+  {
+   "id": "ma-2-5",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "II, 5",
+   "text": {
+    "es": "Haz cada cosa como si fuera la última de tu vida, libre de toda ligereza, de toda pasión y de toda queja.",
+    "fr": "Accomplis chaque action comme si c'était la dernière de ta vie, libre de toute légèreté, de toute passion et de toute plainte."
+   }
+  },
+  {
+   "id": "ma-2-7",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "II, 7",
+   "text": {
+    "es": "¿Te distraen las cosas externas? Date tiempo para aprender algo bueno y deja de dar vueltas sin rumbo.",
+    "fr": "Les choses extérieures te distraient ? Donne-toi le loisir d'apprendre quelque chose de bon, et cesse de tourner en rond."
+   }
+  },
+  {
+   "id": "ma-2-14",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "II, 14",
+   "text": {
+    "es": "Aunque fueras a vivir tres mil años, recuerda que nadie pierde otra vida que la que vive, ni vive otra que la que pierde.",
+    "fr": "Quand tu devrais vivre trois mille ans, souviens-toi que nul ne perd d'autre vie que celle qu'il vit, et ne vit d'autre vie que celle qu'il perd."
+   }
+  },
+  {
+   "id": "ma-2-17",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "II, 17",
+   "text": {
+    "es": "El tiempo de la vida humana es un punto; su sustancia, fluyente. ¿Qué puede guiarnos? Una sola cosa: la filosofía.",
+    "fr": "La durée de la vie humaine n'est qu'un point ; sa substance, un flux. Qu'est-ce qui peut nous guider ? Une seule chose : la philosophie."
+   }
+  },
+  {
+   "id": "ma-3-4",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "III, 4",
+   "text": {
+    "es": "No malgastes lo que te queda de vida en pensar en los demás, salvo para el bien común.",
+    "fr": "N'use pas ce qui te reste de vie à te représenter ce que font les autres, à moins que ce ne soit pour le bien commun."
+   }
+  },
+  {
+   "id": "ma-3-10",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "III, 10",
+   "text": {
+    "es": "Cada uno vive solo el instante presente; lo demás, o ya ha sido vivido, o es incierto.",
+    "fr": "Chacun ne vit que l'instant présent ; le reste, ou bien est déjà vécu, ou bien est incertain."
+   }
+  },
+  {
+   "id": "ma-4-3a",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "IV, 3",
+   "text": {
+    "es": "Los hombres buscan retiros en el campo, en la costa, en los montes. Pero en ningún lugar puede uno retirarse con más tranquilidad que en su propia alma.",
+    "fr": "On se cherche des retraites à la campagne, au bord de la mer, dans les montagnes. Mais nulle part on ne trouve de retraite plus tranquille que dans sa propre âme."
+   }
+  },
+  {
+   "id": "ma-4-3b",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "IV, 3",
+   "text": {
+    "es": "El universo es cambio; la vida, opinión.",
+    "fr": "Le monde est changement ; la vie, opinion."
+   }
+  },
+  {
+   "id": "ma-4-7",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "IV, 7",
+   "text": {
+    "es": "Suprime la opinión y se suprime el «me han dañado»; suprime el «me han dañado» y se suprime el daño.",
+    "fr": "Supprime l'opinion, et tu supprimes le « on m'a fait du tort » ; supprime le « on m'a fait du tort », et le tort est supprimé."
+   }
+  },
+  {
+   "id": "ma-4-17",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "IV, 17",
+   "text": {
+    "es": "No vivas como si fueras a vivir diez mil años. La necesidad pende sobre ti. Mientras vives, mientras aún puedes, hazte bueno.",
+    "fr": "Ne vis pas comme si tu avais dix mille ans à vivre. L'inévitable est suspendu sur toi. Tant que tu vis, tant que tu le peux, deviens homme de bien."
+   }
+  },
+  {
+   "id": "ma-4-18",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "IV, 18",
+   "text": {
+    "es": "¡Cuánta calma gana quien no mira lo que dijo, hizo o pensó el vecino, sino solo lo que hace él mismo, para que sea justo y digno!",
+    "fr": "Que de tranquillité gagne celui qui ne regarde pas ce qu'a dit, fait ou pensé le voisin, mais seulement ce qu'il fait lui-même, pour que ce soit juste et digne !"
+   }
+  },
+  {
+   "id": "ma-4-24",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "IV, 24",
+   "text": {
+    "es": "«Ocúpate de pocas cosas si quieres estar sereno.» ¿No será mejor hacer lo necesario? Así se gana la serenidad de hacer bien y la de hacer poco.",
+    "fr": "« Ne t'occupe que de peu de choses, si tu veux être serein. » Ne vaut-il pas mieux faire le nécessaire ? On y gagne la sérénité de bien faire et celle de faire peu."
+   }
+  },
+  {
+   "id": "ma-4-49",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "IV, 49",
+   "text": {
+    "es": "Sé como el promontorio contra el que rompen sin cesar las olas: él permanece firme y a su alrededor se calma el hervor del agua.",
+    "fr": "Ressemble au promontoire contre lequel se brisent sans cesse les flots : lui reste debout, et autour de lui s'apaise le bouillonnement des eaux."
+   }
+  },
+  {
+   "id": "ma-5-1",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "V, 1",
+   "text": {
+    "es": "Al amanecer, cuando te cueste levantarte, ten presente este pensamiento: me levanto para hacer obra de ser humano.",
+    "fr": "Le matin, quand tu as peine à te lever, aie cette pensée présente : je m'éveille pour faire œuvre d'homme."
+   }
+  },
+  {
+   "id": "ma-5-9",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "V, 9",
+   "text": {
+    "es": "No te desanimes si no logras siempre obrar según principios rectos; cuando caigas, vuelve a ellos y alégrate si la mayor parte de tus actos es digna.",
+    "fr": "Ne te décourage pas si tu ne parviens pas toujours à agir selon de justes principes ; quand tu es repoussé, reviens-y, et réjouis-toi si la plupart de tes actes sont dignes."
+   }
+  },
+  {
+   "id": "ma-5-16",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "V, 16",
+   "text": {
+    "es": "Tal como sean tus pensamientos habituales, así será tu mente; porque el alma se tiñe del color de sus pensamientos.",
+    "fr": "Telles sont tes pensées habituelles, tel sera ton esprit ; car l'âme se teint de la couleur de ses pensées."
+   }
+  },
+  {
+   "id": "ma-5-20",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "V, 20",
+   "text": {
+    "es": "Lo que impide la acción hace avanzar la acción. Lo que se interpone en el camino se convierte en el camino.",
+    "fr": "Ce qui fait obstacle à l'action fait avancer l'action. Ce qui barre la route devient la route."
+   }
+  },
+  {
+   "id": "ma-5-23",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "V, 23",
+   "text": {
+    "es": "Piensa a menudo en la rapidez con que pasa y se desvanece todo lo que existe y lo que llega a ser.",
+    "fr": "Pense souvent à la rapidité avec laquelle passe et disparaît tout ce qui est et tout ce qui devient."
+   }
+  },
+  {
+   "id": "ma-6-2",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VI, 2",
+   "text": {
+    "es": "Que no te importe tener frío o calor, sueño o descanso, si cumples con tu deber.",
+    "fr": "Qu'il te soit égal d'avoir froid ou chaud, sommeil ou assez dormi, pourvu que tu fasses ton devoir."
+   }
+  },
+  {
+   "id": "ma-6-6",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VI, 6",
+   "text": {
+    "es": "La mejor manera de defenderte es no parecerte a quien te ofende.",
+    "fr": "La meilleure manière de te défendre, c'est de ne pas ressembler à celui qui t'offense."
+   }
+  },
+  {
+   "id": "ma-6-21",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VI, 21",
+   "text": {
+    "es": "Si alguien puede demostrarme que pienso o actúo mal, cambiaré con gusto. Busco la verdad, que nunca ha dañado a nadie.",
+    "fr": "Si quelqu'un peut me prouver que je pense ou agis mal, je changerai avec joie. Je cherche la vérité, qui n'a jamais fait de tort à personne."
+   }
+  },
+  {
+   "id": "ma-6-30",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VI, 30",
+   "text": {
+    "es": "Cuida de no volverte un César, de no teñirte de púrpura. Consérvate sencillo, bueno, íntegro, serio, amigo de la justicia, afectuoso y firme en tu deber.",
+    "fr": "Prends garde de te césariser, de te teindre de pourpre. Garde-toi simple, bon, pur, sérieux, ami de la justice, bienveillant et ferme dans ton devoir."
+   }
+  },
+  {
+   "id": "ma-6-48",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VI, 48",
+   "text": {
+    "es": "Cuando quieras alegrarte, piensa en las virtudes de quienes viven contigo: la energía de uno, la modestia de otro, la generosidad de un tercero.",
+    "fr": "Quand tu veux te réjouir, pense aux qualités de ceux qui vivent avec toi : l'énergie de l'un, la modestie de l'autre, la générosité d'un troisième."
+   }
+  },
+  {
+   "id": "ma-6-54",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VI, 54",
+   "text": {
+    "es": "Lo que no es útil a la colmena tampoco es útil a la abeja.",
+    "fr": "Ce qui n'est pas utile à l'essaim n'est pas utile à l'abeille."
+   }
+  },
+  {
+   "id": "ma-7-7",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VII, 7",
+   "text": {
+    "es": "No te avergüences de que te ayuden. Como el soldado en el asalto a una muralla, tienes una tarea que cumplir. ¿Y si cojeas y no puedes subir solo?",
+    "fr": "N'aie pas honte d'être aidé. Comme le soldat à l'assaut d'un rempart, tu as une tâche à remplir. Et si tu boites et ne peux monter seul ?"
+   }
+  },
+  {
+   "id": "ma-7-8",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VII, 8",
+   "text": {
+    "es": "Que no te turbe el futuro: llegarás a él, si es preciso, con la misma razón que hoy usas para el presente.",
+    "fr": "Que l'avenir ne te trouble pas : tu y arriveras, s'il le faut, avec la même raison dont tu te sers aujourd'hui pour le présent."
+   }
+  },
+  {
+   "id": "ma-7-22",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VII, 22",
+   "text": {
+    "es": "Es propio del ser humano amar incluso a quienes le ofenden.",
+    "fr": "Le propre de l'homme est d'aimer même ceux qui l'offensent."
+   }
+  },
+  {
+   "id": "ma-7-57",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VII, 57",
+   "text": {
+    "es": "Ama solo lo que te sucede y lo que está tejido con el hilo de tu destino. ¿Qué podría convenirte más?",
+    "fr": "N'aime que ce qui t'arrive et qui est tissé dans la trame de ton destin. Qu'est-ce qui pourrait mieux te convenir ?"
+   }
+  },
+  {
+   "id": "ma-7-59",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VII, 59",
+   "text": {
+    "es": "Mira hacia dentro. Dentro está la fuente del bien, y puede brotar siempre, si siempre cavas.",
+    "fr": "Regarde au-dedans. Au-dedans est la source du bien, et elle peut jaillir sans cesse, si tu creuses sans cesse."
+   }
+  },
+  {
+   "id": "ma-7-61",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VII, 61",
+   "text": {
+    "es": "El arte de vivir se parece más a la lucha que a la danza: hay que estar firme y preparado ante lo imprevisto.",
+    "fr": "L'art de vivre ressemble plus à la lutte qu'à la danse : il faut se tenir ferme et prêt contre l'imprévu."
+   }
+  },
+  {
+   "id": "ma-7-67",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VII, 67",
+   "text": {
+    "es": "Recuerda que muy poco se necesita para vivir feliz.",
+    "fr": "Souviens-toi qu'il faut très peu de chose pour vivre heureux."
+   }
+  },
+  {
+   "id": "ma-7-69",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VII, 69",
+   "text": {
+    "es": "La perfección moral consiste en vivir cada día como si fuera el último, sin agitación, sin torpor, sin fingimiento.",
+    "fr": "La perfection morale consiste à vivre chaque jour comme si c'était le dernier, sans agitation, sans torpeur, sans faux-semblant."
+   }
+  },
+  {
+   "id": "ma-7-71",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VII, 71",
+   "text": {
+    "es": "Es ridículo no huir de la propia maldad, que es posible, y querer huir de la ajena, que es imposible.",
+    "fr": "Il est ridicule de ne pas fuir sa propre méchanceté, ce qui est possible, et de vouloir fuir celle des autres, ce qui est impossible."
+   }
+  },
+  {
+   "id": "ma-8-33",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VIII, 33",
+   "text": {
+    "es": "Recibir sin orgullo; desprenderse sin apego.",
+    "fr": "Recevoir sans orgueil ; se détacher sans regret."
+   }
+  },
+  {
+   "id": "ma-8-36",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VIII, 36",
+   "text": {
+    "es": "No te agobies imaginando la vida entera. Ante cada cosa presente, pregúntate: ¿qué hay aquí de insoportable? Te avergonzará responder.",
+    "fr": "Ne te trouble pas en te représentant toute ta vie. Devant chaque chose présente, demande-toi : qu'y a-t-il là d'insupportable ? Tu rougiras de répondre."
+   }
+  },
+  {
+   "id": "ma-8-47",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VIII, 47",
+   "text": {
+    "es": "Si te aflige algo externo, no es eso lo que te perturba, sino tu juicio sobre ello. Y está en tu mano borrar ese juicio ahora mismo.",
+    "fr": "Si quelque chose d'extérieur t'afflige, ce n'est pas cela qui te trouble, mais le jugement que tu portes sur cela. Et il dépend de toi d'effacer ce jugement à l'instant."
+   }
+  },
+  {
+   "id": "ma-8-51",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VIII, 51",
+   "text": {
+    "es": "No seas negligente en tus actos, ni confuso en tus palabras, ni errante en tus pensamientos.",
+    "fr": "Ne sois ni négligent dans tes actes, ni confus dans tes paroles, ni vagabond dans tes pensées."
+   }
+  },
+  {
+   "id": "ma-8-59",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VIII, 59",
+   "text": {
+    "es": "Los seres humanos han nacido unos para otros: instrúyelos o sopórtalos.",
+    "fr": "Les hommes sont faits les uns pour les autres : instruis-les donc, ou supporte-les."
+   }
+  },
+  {
+   "id": "ma-9-6",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "IX, 6",
+   "text": {
+    "es": "Te basta el juicio presente, si es comprensivo; la acción presente, si es para el bien común; la disposición presente, si acoge con gusto lo que llega.",
+    "fr": "Il te suffit du jugement présent, s'il est compréhensif ; de l'action présente, si elle sert le bien commun ; de la disposition présente, si elle accueille de bon cœur ce qui arrive."
+   }
+  },
+  {
+   "id": "ma-9-42",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "IX, 42",
+   "text": {
+    "es": "Cuando te ofenda la desvergüenza de alguien, pregúntate: ¿es posible que no haya desvergonzados en el mundo? No lo es. No pidas, pues, lo imposible.",
+    "fr": "Quand l'impudence de quelqu'un te choque, demande-toi : est-il possible qu'il n'y ait pas d'impudents dans le monde ? Ce n'est pas possible. Ne demande donc pas l'impossible."
+   }
+  },
+  {
+   "id": "ma-10-16",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "X, 16",
+   "text": {
+    "es": "Deja ya de discutir cómo debe ser un hombre bueno. Sé uno.",
+    "fr": "Cesse enfin de discuter de ce que doit être l'homme de bien. Sois-le."
+   }
+  },
+  {
+   "id": "ma-11-18",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "XI, 18",
+   "text": {
+    "es": "Cuánto más dolorosas son las consecuencias de la ira que las cosas mismas que la provocan.",
+    "fr": "Combien les suites de la colère sont plus pénibles que les choses mêmes qui la provoquent."
+   }
+  },
+  {
+   "id": "ma-12-4",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "XII, 4",
+   "text": {
+    "es": "Todos nos amamos más que a nadie y, sin embargo, damos más valor a la opinión de los demás sobre nosotros que a la nuestra.",
+    "fr": "Chacun s'aime plus que tout autre, et pourtant fait plus de cas de l'opinion des autres sur lui que de la sienne propre."
+   }
+  },
+  {
+   "id": "ma-12-17",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "XII, 17",
+   "text": {
+    "es": "Si no conviene, no lo hagas; si no es verdad, no lo digas.",
+    "fr": "Si ce n'est pas convenable, ne le fais pas ; si ce n'est pas vrai, ne le dis pas."
+   }
+  },
+  {
+   "id": "ma-12-25",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "XII, 25",
+   "text": {
+    "es": "Suprime la opinión y estás a salvo. ¿Quién te impide suprimirla?",
+    "fr": "Supprime l'opinion, et te voilà sauvé. Qui donc t'empêche de la supprimer ?"
+   }
+  },
+  {
+   "id": "ma-6-44",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VI, 44",
+   "text": {
+    "es": "Mi ciudad y mi patria, como Antonino, es Roma; como ser humano, el mundo.",
+    "fr": "Ma cité et ma patrie, en tant qu'Antonin, c'est Rome ; en tant qu'homme, c'est le monde."
+   }
+  },
+  {
+   "id": "ma-4-36",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "IV, 36",
+   "text": {
+    "es": "Observa sin cesar que todo nace por transformación, y acostúmbrate a pensar que la naturaleza nada ama tanto como cambiar lo que existe y hacer cosas nuevas.",
+    "fr": "Observe sans cesse que tout naît par transformation, et habitue-toi à penser que la nature n'aime rien tant que changer ce qui est pour en faire du nouveau."
+   }
+  },
+  {
+   "id": "ma-10-34",
+   "kind": "QUOTE",
+   "author": "marco",
+   "work": "med",
+   "ref": "X, 34",
+   "text": {
+    "es": "Las hojas, unas las tira el viento al suelo; otras las brota el bosque en primavera. Así son las generaciones de los hombres.",
+    "fr": "Les feuilles, le vent répand les unes sur le sol ; la forêt verdoyante en fait naître d'autres au printemps. Ainsi des générations des hommes."
+   }
+  },
+  {
+   "id": "se-brev-1",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "brev",
+   "ref": "1",
+   "text": {
+    "es": "No es que tengamos poco tiempo, sino que perdemos mucho.",
+    "fr": "Ce n'est pas que nous ayons peu de temps, c'est que nous en perdons beaucoup."
+   }
+  },
+  {
+   "id": "se-brev-2",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "brev",
+   "ref": "2",
+   "text": {
+    "es": "La vida, si sabes usarla, es larga.",
+    "fr": "La vie, si l'on sait s'en servir, est longue."
+   }
+  },
+  {
+   "id": "se-brev-3",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "brev",
+   "ref": "3",
+   "text": {
+    "es": "Teméis todo como mortales y lo deseáis todo como si fuerais inmortales.",
+    "fr": "Vous craignez tout comme des mortels, et vous désirez tout comme si vous étiez immortels."
+   }
+  },
+  {
+   "id": "se-brev-7",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "brev",
+   "ref": "7",
+   "text": {
+    "es": "Hay que aprender a vivir durante toda la vida y, lo que quizá te sorprenda más, durante toda la vida hay que aprender a morir.",
+    "fr": "Il faut toute la vie pour apprendre à vivre et, ce qui t'étonnera peut-être davantage, il faut toute la vie pour apprendre à mourir."
+   }
+  },
+  {
+   "id": "se-brev-9",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "brev",
+   "ref": "9",
+   "text": {
+    "es": "El mayor obstáculo para vivir es la espera, que depende del mañana y pierde el hoy.",
+    "fr": "Le plus grand obstacle à la vie est l'attente, qui dépend du lendemain et perd l'aujourd'hui."
+   }
+  },
+  {
+   "id": "se-brev-10",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "brev",
+   "ref": "10",
+   "text": {
+    "es": "La vida se divide en tres tiempos: lo que fue, lo que es y lo que será. El presente es breve; el futuro, incierto; el pasado, seguro.",
+    "fr": "La vie se divise en trois temps : ce qui a été, ce qui est, ce qui sera. Le présent est bref, l'avenir incertain, le passé assuré."
+   }
+  },
+  {
+   "id": "se-ep-1",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "1",
+   "text": {
+    "es": "Mientras se aplaza, la vida pasa de largo. Todo, Lucilio, nos es ajeno; solo el tiempo es nuestro.",
+    "fr": "Pendant qu'on remet à plus tard, la vie passe. Tout, Lucilius, nous est étranger ; le temps seul est à nous."
+   }
+  },
+  {
+   "id": "se-ep-2a",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "2",
+   "text": {
+    "es": "La primera señal de una mente ordenada es poder detenerse y habitar consigo misma.",
+    "fr": "Le premier signe d'un esprit bien réglé est de pouvoir s'arrêter et demeurer avec soi-même."
+   }
+  },
+  {
+   "id": "se-ep-2",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "2",
+   "text": {
+    "es": "No es pobre quien tiene poco, sino quien desea más.",
+    "fr": "Ce n'est pas celui qui a peu qui est pauvre, mais celui qui désire davantage."
+   }
+  },
+  {
+   "id": "se-ep-3",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "3",
+   "text": {
+    "es": "Piensa mucho antes de admitir a alguien en tu amistad; pero, una vez decidido, recíbelo con todo el corazón.",
+    "fr": "Réfléchis longuement avant d'admettre quelqu'un dans ton amitié ; mais, une fois décidé, accueille-le de tout ton cœur."
+   }
+  },
+  {
+   "id": "se-ep-5",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "5",
+   "text": {
+    "es": "Dejarás de temer cuando dejes de esperar.",
+    "fr": "Tu cesseras de craindre quand tu auras cessé d'espérer."
+   }
+  },
+  {
+   "id": "se-ep-6",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "6",
+   "text": {
+    "es": "Siento, Lucilio, que no solo me corrijo, sino que me transformo.",
+    "fr": "Je sens, Lucilius, que non seulement je m'amende, mais que je me transforme."
+   }
+  },
+  {
+   "id": "se-ep-7",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "7",
+   "text": {
+    "es": "Trata con quienes puedan hacerte mejor; acoge a aquellos a quienes tú puedas mejorar. Es mutuo: los hombres aprenden mientras enseñan.",
+    "fr": "Fréquente ceux qui peuvent te rendre meilleur ; accueille ceux que tu peux rendre meilleurs. C'est réciproque : les hommes apprennent en enseignant."
+   }
+  },
+  {
+   "id": "se-ep-9",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "9",
+   "text": {
+    "es": "Si quieres ser amado, ama.",
+    "fr": "Si tu veux être aimé, aime."
+   }
+  },
+  {
+   "id": "se-ep-12",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "12",
+   "text": {
+    "es": "Abracemos la vejez y amémosla: está llena de placer si se sabe vivir.",
+    "fr": "Embrassons la vieillesse et aimons-la : elle est pleine de douceur, si l'on sait en user."
+   }
+  },
+  {
+   "id": "se-ep-12b",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "12",
+   "text": {
+    "es": "Cada día debe ordenarse como si cerrara la serie y completara la vida.",
+    "fr": "Chaque jour doit être réglé comme s'il fermait la marche et complétait la vie."
+   }
+  },
+  {
+   "id": "se-ep-13",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "13",
+   "text": {
+    "es": "Hay más cosas que nos asustan que cosas que nos dañan; sufrimos más a menudo en la imaginación que en la realidad.",
+    "fr": "Il y a plus de choses qui nous effraient que de choses qui nous accablent ; nous souffrons plus souvent en imagination qu'en réalité."
+   }
+  },
+  {
+   "id": "se-ep-16",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "16",
+   "text": {
+    "es": "La filosofía forma y modela el alma, ordena la vida, rige las acciones, muestra lo que se debe hacer y lo que se debe evitar.",
+    "fr": "La philosophie forme et façonne l'âme, ordonne la vie, règle les actions, montre ce qu'il faut faire et ce qu'il faut éviter."
+   }
+  },
+  {
+   "id": "se-ep-20",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "20",
+   "text": {
+    "es": "La filosofía enseña a obrar, no a hablar.",
+    "fr": "La philosophie enseigne à agir, non à parler."
+   }
+  },
+  {
+   "id": "se-ep-23",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "23",
+   "text": {
+    "es": "Viven mal quienes siempre están empezando a vivir.",
+    "fr": "Ils vivent mal, ceux qui commencent toujours à vivre."
+   }
+  },
+  {
+   "id": "se-ep-24",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "24",
+   "text": {
+    "es": "Morimos cada día: cada día se nos quita una parte de la vida.",
+    "fr": "Nous mourons chaque jour : chaque jour nous est ôtée une part de la vie."
+   }
+  },
+  {
+   "id": "se-ep-28",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "28",
+   "text": {
+    "es": "Tienes que cambiar de alma, no de cielo. Adondequiera que vayas, te seguirán tus vicios.",
+    "fr": "C'est d'âme qu'il faut changer, non de climat. Où que tu ailles, tes vices te suivront."
+   }
+  },
+  {
+   "id": "se-ep-33",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "33",
+   "text": {
+    "es": "Quienes nos precedieron no son nuestros amos, sino nuestros guías. La verdad está abierta a todos; aún no ha sido ocupada.",
+    "fr": "Ceux qui nous ont précédés ne sont pas nos maîtres, mais nos guides. La vérité est ouverte à tous ; elle n'est pas encore occupée."
+   }
+  },
+  {
+   "id": "se-ep-47",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "47",
+   "text": {
+    "es": "«Son esclavos.» No: son seres humanos. «Son esclavos.» No: son compañeros de techo.",
+    "fr": "« Ce sont des esclaves. » Non : ce sont des hommes. « Ce sont des esclaves. » Non : ce sont des compagnons de logis."
+   }
+  },
+  {
+   "id": "se-ep-47b",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "47",
+   "text": {
+    "es": "Muéstrame quién no es esclavo: uno lo es de la lujuria, otro de la avaricia, otro de la ambición, todos del miedo.",
+    "fr": "Montre-moi qui n'est pas esclave : l'un l'est de la luxure, l'autre de l'avarice, un autre de l'ambition, tous de la peur."
+   }
+  },
+  {
+   "id": "se-ep-56",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "56",
+   "text": {
+    "es": "¿De qué sirve el silencio de toda una región si las pasiones braman dentro?",
+    "fr": "À quoi sert le silence de toute une contrée, si les passions grondent au-dedans ?"
+   }
+  },
+  {
+   "id": "se-ep-63",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "63",
+   "text": {
+    "es": "Que no se sequen los ojos al perder a un amigo, pero que tampoco se desborden: hay que llorar, no lamentarse sin fin.",
+    "fr": "Que les yeux ne restent pas secs à la perte d'un ami, mais qu'ils ne débordent pas : il faut pleurer, non se lamenter sans fin."
+   }
+  },
+  {
+   "id": "se-ep-71",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "71",
+   "text": {
+    "es": "Cuando uno no sabe a qué puerto se dirige, ningún viento le es favorable.",
+    "fr": "Quand on ne sait pas vers quel port on navigue, aucun vent n'est favorable."
+   }
+  },
+  {
+   "id": "se-ep-76",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "76",
+   "text": {
+    "es": "Hay que aprender mientras se ignora algo; y, si creemos al proverbio, mientras se vive.",
+    "fr": "Il faut apprendre tant qu'on ignore quelque chose ; et, à en croire le proverbe, tant qu'on vit."
+   }
+  },
+  {
+   "id": "se-ep-78",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "78",
+   "text": {
+    "es": "Lo que fue duro de soportar es dulce de recordar.",
+    "fr": "Ce qui fut dur à supporter est doux à se rappeler."
+   }
+  },
+  {
+   "id": "se-ep-96",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "96",
+   "text": {
+    "es": "Vivir, Lucilio, es combatir.",
+    "fr": "Vivre, Lucilius, c'est combattre."
+   }
+  },
+  {
+   "id": "se-ep-101",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "101",
+   "text": {
+    "es": "Apresúrate a vivir y considera cada día como una vida completa.",
+    "fr": "Hâte-toi de vivre, et considère chaque jour comme une vie entière."
+   }
+  },
+  {
+   "id": "se-ep-107",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "107",
+   "text": {
+    "es": "El destino guía a quien lo acepta y arrastra a quien se resiste.",
+    "fr": "Le destin conduit celui qui consent, et traîne celui qui résiste."
+   }
+  },
+  {
+   "id": "se-ira-1",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "ira",
+   "ref": "I, 1",
+   "text": {
+    "es": "Algunos sabios llamaron a la ira una locura breve.",
+    "fr": "Certains sages ont appelé la colère une courte folie."
+   }
+  },
+  {
+   "id": "se-ira-2",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "ira",
+   "ref": "II, 29",
+   "text": {
+    "es": "El mejor remedio para la ira es la demora.",
+    "fr": "Le meilleur remède à la colère est le délai."
+   }
+  },
+  {
+   "id": "se-prov-2",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "prov",
+   "ref": "2",
+   "text": {
+    "es": "La virtud sin adversario se marchita.",
+    "fr": "La vertu sans adversaire se flétrit."
+   }
+  },
+  {
+   "id": "se-prov-3",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "prov",
+   "ref": "3",
+   "text": {
+    "es": "Nada me parece más desdichado que quien nunca ha conocido la adversidad.",
+    "fr": "Rien ne me semble plus malheureux que celui à qui n'est jamais arrivé aucun malheur."
+   }
+  },
+  {
+   "id": "se-prov-5",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "prov",
+   "ref": "5",
+   "text": {
+    "es": "El fuego prueba el oro; la adversidad, a los hombres fuertes.",
+    "fr": "Le feu éprouve l'or ; le malheur, les hommes de cœur."
+   }
+  },
+  {
+   "id": "se-vb-24",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "vb",
+   "ref": "24",
+   "text": {
+    "es": "Dondequiera que haya un ser humano, hay ocasión para hacer el bien.",
+    "fr": "Partout où il y a un être humain, il y a place pour un bienfait."
+   }
+  },
+  {
+   "id": "se-tranq-2",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "tranq",
+   "ref": "2",
+   "text": {
+    "es": "Lo que buscamos es la tranquilidad: que el alma avance siempre con paso igual y favorable, en paz consigo misma.",
+    "fr": "Ce que nous cherchons, c'est la tranquillité : que l'âme avance toujours d'un pas égal et heureux, en paix avec elle-même."
+   }
+  },
+  {
+   "id": "se-tranq-17",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "tranq",
+   "ref": "17",
+   "text": {
+    "es": "Hay que conceder descanso al alma: tras el reposo se levanta mejor y más aguda.",
+    "fr": "Il faut accorder du repos à l'âme : après le repos, elle se relève meilleure et plus vive."
+   }
+  },
+  {
+   "id": "se-benef-2",
+   "kind": "QUOTE",
+   "author": "seneca",
+   "work": "benef",
+   "ref": "II, 22",
+   "text": {
+    "es": "Quien recibe un beneficio con gratitud ya ha pagado la primera parte de su deuda.",
+    "fr": "Celui qui reçoit un bienfait avec gratitude en a déjà payé la première part."
+   }
+  },
+  {
+   "id": "ep-ench-1",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "1",
+   "text": {
+    "es": "De las cosas, unas dependen de nosotros y otras no. Dependen de nosotros el juicio, el impulso, el deseo y el rechazo: en una palabra, lo que es obra nuestra.",
+    "fr": "Parmi les choses, les unes dépendent de nous, les autres non. Dépendent de nous le jugement, l'impulsion, le désir, l'aversion : en un mot, tout ce qui est notre œuvre."
+   }
+  },
+  {
+   "id": "ep-ench-5",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "5",
+   "text": {
+    "es": "No son las cosas las que perturban a los hombres, sino las opiniones que tienen sobre las cosas.",
+    "fr": "Ce qui trouble les hommes, ce ne sont pas les choses, mais les jugements qu'ils portent sur les choses."
+   }
+  },
+  {
+   "id": "ep-ench-6",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "6",
+   "text": {
+    "es": "No te enorgullezcas de ninguna excelencia ajena. Si un caballo dijera «soy hermoso», sería soportable; pero tú, cuando dices «tengo un caballo hermoso», te enorgulleces del bien de un caballo.",
+    "fr": "Ne t'enorgueillis d'aucun avantage étranger. Si un cheval disait « je suis beau », ce serait supportable ; mais toi, quand tu dis « j'ai un beau cheval », tu te glorifies du mérite d'un cheval."
+   }
+  },
+  {
+   "id": "ep-ench-8",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "8",
+   "text": {
+    "es": "No pretendas que las cosas sucedan como quieres; quiere que sucedan como suceden, y vivirás sereno.",
+    "fr": "Ne cherche pas à ce que les événements arrivent comme tu le veux ; veuille qu'ils arrivent comme ils arrivent, et tu seras heureux."
+   }
+  },
+  {
+   "id": "ep-ench-9",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "9",
+   "text": {
+    "es": "La enfermedad es un impedimento para el cuerpo, no para la voluntad, si ella no quiere.",
+    "fr": "La maladie est une entrave pour le corps, non pour la volonté, si elle-même ne le veut pas."
+   }
+  },
+  {
+   "id": "ep-ench-10",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "10",
+   "text": {
+    "es": "Ante cada cosa que te suceda, vuelve hacia ti y busca qué capacidad tienes para afrontarla: ante la fatiga, la resistencia; ante la injuria, la paciencia.",
+    "fr": "À chaque chose qui t'arrive, retourne-toi vers toi-même et cherche quelle force tu as pour y faire face : contre la fatigue, l'endurance ; contre l'injure, la patience."
+   }
+  },
+  {
+   "id": "ep-ench-11",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "11",
+   "text": {
+    "es": "Nunca digas de nada «lo he perdido», sino «lo he devuelto».",
+    "fr": "Ne dis jamais de rien : « je l'ai perdu », mais : « je l'ai rendu »."
+   }
+  },
+  {
+   "id": "ep-ench-13",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "13",
+   "text": {
+    "es": "Si quieres progresar, acepta parecer necio e ignorante en las cosas externas.",
+    "fr": "Si tu veux progresser, accepte de passer pour sot et ignorant quant aux choses extérieures."
+   }
+  },
+  {
+   "id": "ep-ench-15",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "15",
+   "text": {
+    "es": "Compórtate en la vida como en un banquete: si llega un plato hasta ti, toma una parte con mesura; si pasa de largo, no lo retengas; si aún no llega, no lances tu deseo hacia él.",
+    "fr": "Conduis-toi dans la vie comme dans un banquet : un plat arrive devant toi, prends-en avec mesure ; il passe, ne le retiens pas ; il n'est pas encore là, ne lance pas vers lui ton désir."
+   }
+  },
+  {
+   "id": "ep-ench-17",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "17",
+   "text": {
+    "es": "Recuerda que eres actor de una obra cuyo papel elige otro. Te toca representar bien el que te ha sido dado; elegirlo es cosa de otro.",
+    "fr": "Souviens-toi que tu es acteur d'une pièce dont un autre choisit le rôle. À toi de bien jouer celui qui t'est donné ; le choisir appartient à un autre."
+   }
+  },
+  {
+   "id": "ep-ench-19",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "19",
+   "text": {
+    "es": "Puedes ser invencible si no entras en ninguna lucha cuya victoria no dependa de ti.",
+    "fr": "Tu peux être invincible, si tu n'engages aucun combat dont la victoire ne dépend pas de toi."
+   }
+  },
+  {
+   "id": "ep-ench-20",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "20",
+   "text": {
+    "es": "Recuerda que no te ofende quien te insulta o te golpea, sino tu juicio de que te ofende.",
+    "fr": "Souviens-toi que ce n'est pas celui qui t'insulte ou te frappe qui t'outrage, mais le jugement que tu portes qu'il t'outrage."
+   }
+  },
+  {
+   "id": "ep-ench-21",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "21",
+   "text": {
+    "es": "Ten ante los ojos cada día la muerte y todo lo que parece terrible; así nunca pensarás nada mezquino ni desearás nada en exceso.",
+    "fr": "Que la mort et tout ce qui paraît effrayant soient chaque jour devant tes yeux ; ainsi tu n'auras jamais de pensée basse ni de désir excessif."
+   }
+  },
+  {
+   "id": "ep-ench-28",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "28",
+   "text": {
+    "es": "Si alguien entregara tu cuerpo al primero que pasa, te indignarías. ¿Y no te avergüenzas de entregar tu mente a quien te insulta, para que se turbe?",
+    "fr": "Si quelqu'un livrait ton corps au premier venu, tu t'indignerais. Et tu n'as pas honte de livrer ton esprit à quiconque t'insulte, pour qu'il le trouble ?"
+   }
+  },
+  {
+   "id": "ep-ench-33a",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "33",
+   "text": {
+    "es": "Guarda silencio la mayor parte del tiempo, o di solo lo necesario, y con pocas palabras.",
+    "fr": "Garde le silence la plupart du temps, ou ne dis que le nécessaire, et en peu de mots."
+   }
+  },
+  {
+   "id": "ep-ench-33b",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "33",
+   "text": {
+    "es": "Si te dicen que alguien habla mal de ti, no te defiendas; responde: «No conocía mis otros defectos; si no, no habría dicho solo esos».",
+    "fr": "Si l'on te rapporte que quelqu'un dit du mal de toi, ne te justifie pas ; réponds : « Il ignorait mes autres défauts, sinon il n'aurait pas parlé que de ceux-là »."
+   }
+  },
+  {
+   "id": "ep-ench-43",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "43",
+   "text": {
+    "es": "Cada cosa tiene dos asas: una por la que se puede llevar y otra por la que no.",
+    "fr": "Toute chose a deux anses : l'une par laquelle on peut la porter, l'autre par laquelle on ne le peut pas."
+   }
+  },
+  {
+   "id": "ep-ench-44",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "44",
+   "text": {
+    "es": "No concluye el razonamiento «soy más rico que tú, luego soy mejor que tú». Concluye este: «soy más rico, luego mi hacienda es mayor». Pero tú no eres tu hacienda.",
+    "fr": "Ce raisonnement ne tient pas : « je suis plus riche que toi, donc je vaux mieux que toi ». Celui-ci tient : « je suis plus riche, donc mon bien est plus grand ». Mais tu n'es pas ton bien."
+   }
+  },
+  {
+   "id": "ep-ench-46",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "46",
+   "text": {
+    "es": "No te llames filósofo ni hables mucho de principios entre quienes no los conocen: actúa conforme a ellos.",
+    "fr": "Ne te dis jamais philosophe et ne parle pas beaucoup de principes devant les profanes : agis selon eux."
+   }
+  },
+  {
+   "id": "ep-ench-48",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "48",
+   "text": {
+    "es": "Señales del que progresa: no censura a nadie, no alaba a nadie, no se queja de nadie, no acusa a nadie.",
+    "fr": "Signes de celui qui progresse : il ne blâme personne, ne loue personne, ne se plaint de personne, n'accuse personne."
+   }
+  },
+  {
+   "id": "ep-ench-51",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "51",
+   "text": {
+    "es": "¿Hasta cuándo aplazarás considerarte digno de lo mejor? Ya no eres un muchacho: desde hoy, vive como alguien que progresa.",
+    "fr": "Jusqu'à quand différeras-tu de te juger digne du meilleur ? Tu n'es plus un enfant : dès aujourd'hui, vis comme quelqu'un qui progresse."
+   }
+  },
+  {
+   "id": "ep-disc-1-1",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "disc",
+   "ref": "I, 1",
+   "text": {
+    "es": "¿Me encadenarás? Encadenarás mi pierna, pero mi voluntad ni Zeus puede vencerla.",
+    "fr": "Tu m'enchaîneras ? Tu enchaîneras ma jambe ; mais ma volonté, Zeus lui-même ne peut la vaincre."
+   }
+  },
+  {
+   "id": "ep-disc-1-2",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "disc",
+   "ref": "I, 2",
+   "text": {
+    "es": "Considera a qué precio vendes tu libertad interior; y si no por otra cosa, no la vendas barata.",
+    "fr": "Considère à quel prix tu vends ta liberté intérieure ; et, à défaut d'autre chose, ne la vends pas bon marché."
+   }
+  },
+  {
+   "id": "ep-disc-1-15",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "disc",
+   "ref": "I, 15",
+   "text": {
+    "es": "Nada grande nace de repente, ni siquiera la uva o el higo. Si me dices que quieres un higo, te responderé: hace falta tiempo. Deja que florezca, que dé fruto, que madure.",
+    "fr": "Rien de grand ne naît tout d'un coup, pas même le raisin ou la figue. Si tu me dis : je veux une figue, je te répondrai : il faut du temps. Laisse-la d'abord fleurir, puis fructifier, puis mûrir."
+   }
+  },
+  {
+   "id": "ep-disc-1-18",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "disc",
+   "ref": "I, 18",
+   "text": {
+    "es": "¿Por qué te irritas con quien se equivoca? Compadécelo, más bien, como a quien ha perdido la vista en lo más importante.",
+    "fr": "Pourquoi t'irriter contre celui qui se trompe ? Plains-le plutôt, comme quelqu'un qui a perdu la vue pour ce qui importe le plus."
+   }
+  },
+  {
+   "id": "ep-disc-2-5",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "disc",
+   "ref": "II, 5",
+   "text": {
+    "es": "Las cosas materiales son indiferentes, pero el uso que hacemos de ellas no lo es.",
+    "fr": "Les choses matérielles sont indifférentes, mais l'usage que nous en faisons ne l'est pas."
+   }
+  },
+  {
+   "id": "ep-disc-2-17",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "disc",
+   "ref": "II, 17",
+   "text": {
+    "es": "Es imposible empezar a aprender lo que uno cree que ya sabe.",
+    "fr": "Il est impossible de commencer à apprendre ce que l'on croit savoir."
+   }
+  },
+  {
+   "id": "ep-disc-2-18",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "disc",
+   "ref": "II, 18",
+   "text": {
+    "es": "Toda capacidad se mantiene y crece con las acciones que le corresponden: caminando se hace uno caminante; corriendo, corredor.",
+    "fr": "Toute faculté se conserve et s'accroît par les actes qui lui correspondent : c'est en marchant qu'on devient marcheur, en courant, coureur."
+   }
+  },
+  {
+   "id": "ep-disc-3-23",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "disc",
+   "ref": "III, 23",
+   "text": {
+    "es": "Dite primero quién quieres ser; después haz lo que tengas que hacer.",
+    "fr": "Dis-toi d'abord qui tu veux être ; puis fais ce que tu as à faire."
+   }
+  },
+  {
+   "id": "ep-frag-35",
+   "kind": "QUOTE",
+   "author": "epicteto",
+   "work": "frag",
+   "ref": "",
+   "text": {
+    "es": "Nadie es libre si no es dueño de sí mismo.",
+    "fr": "Nul n'est libre s'il n'est maître de lui-même."
+   }
+  },
+  {
+   "id": "mu-51",
+   "kind": "QUOTE",
+   "author": "musonio",
+   "work": "frag",
+   "ref": "51",
+   "text": {
+    "es": "Si haces algo bueno con esfuerzo, el esfuerzo pasa y el bien permanece. Si haces algo vergonzoso por placer, el placer pasa y la vergüenza permanece.",
+    "fr": "Si tu fais une bonne action avec peine, la peine passe et le bien demeure. Si tu fais une action honteuse avec plaisir, le plaisir passe et la honte demeure."
+   }
+  },
+  {
+   "id": "mu-5",
+   "kind": "QUOTE",
+   "author": "musonio",
+   "work": "muslec",
+   "ref": "5",
+   "text": {
+    "es": "La práctica vale más que la teoría: de nada sirve saber de medicina si no se sabe curar.",
+    "fr": "La pratique vaut mieux que la théorie : à quoi bon connaître la médecine si l'on ne sait pas soigner ?"
+   }
+  },
+  {
+   "id": "mu-2",
+   "kind": "QUOTE",
+   "author": "musonio",
+   "work": "muslec",
+   "ref": "2",
+   "text": {
+    "es": "Todos nacemos con una inclinación natural hacia la virtud.",
+    "fr": "Nous naissons tous avec une inclination naturelle à la vertu."
+   }
+  },
+  {
+   "id": "ze-dl-23",
+   "kind": "QUOTE",
+   "author": "zenon",
+   "work": "dl",
+   "ref": "VII, 23",
+   "text": {
+    "es": "Tenemos dos oídos y una sola boca para escuchar más y hablar menos.",
+    "fr": "Nous avons deux oreilles et une seule bouche pour écouter davantage et parler moins."
+   }
+  },
+  {
+   "id": "ze-dl-88",
+   "kind": "QUOTE",
+   "author": "zenon",
+   "work": "dl",
+   "ref": "VII, 88",
+   "text": {
+    "es": "La felicidad es un buen fluir de la vida.",
+    "fr": "Le bonheur est le bon cours de la vie."
+   }
+  },
+  {
+   "id": "ze-dl-4",
+   "kind": "QUOTE",
+   "author": "zenon",
+   "work": "dl",
+   "ref": "VII, 4",
+   "text": {
+    "es": "Hice una buena travesía cuando naufragué.",
+    "fr": "J'ai fait une heureuse traversée le jour où j'ai fait naufrage."
+   }
+  },
+  {
+   "id": "ze-dl-26",
+   "kind": "QUOTE",
+   "author": "zenon",
+   "work": "dl",
+   "ref": "VII, 26",
+   "text": {
+    "es": "El bienestar se alcanza poco a poco, pero no es poca cosa.",
+    "fr": "Le bien-être s'obtient peu à peu, mais ce n'est pas peu de chose."
+   }
+  },
+  {
+   "id": "cl-ench-53",
+   "kind": "QUOTE",
+   "author": "cleantes",
+   "work": "citench",
+   "ref": "53",
+   "text": {
+    "es": "Guíame, Zeus, y tú, Destino, adonde me tengáis asignado. Os seguiré sin vacilar; y si no quisiera, os seguiría igualmente.",
+    "fr": "Conduis-moi, Zeus, et toi, Destinée, là où vous m'avez assigné. Je suivrai sans hésiter ; et si je ne le voulais pas, je suivrais tout de même."
+   }
+  },
+  {
+   "id": "he-b91",
+   "kind": "QUOTE",
+   "author": "heraclito",
+   "work": "frag",
+   "ref": "B 91",
+   "text": {
+    "es": "No es posible bañarse dos veces en el mismo río.",
+    "fr": "On ne peut pas entrer deux fois dans le même fleuve."
+   }
+  },
+  {
+   "id": "he-b119",
+   "kind": "QUOTE",
+   "author": "heraclito",
+   "work": "frag",
+   "ref": "B 119",
+   "text": {
+    "es": "El carácter de un hombre es su destino.",
+    "fr": "Le caractère de l'homme est son destin."
+   }
+  },
+  {
+   "id": "he-b60",
+   "kind": "QUOTE",
+   "author": "heraclito",
+   "work": "frag",
+   "ref": "B 60",
+   "text": {
+    "es": "El camino hacia arriba y el camino hacia abajo son uno y el mismo.",
+    "fr": "Le chemin qui monte et le chemin qui descend sont un seul et même chemin."
+   }
+  },
+  {
+   "id": "he-b101",
+   "kind": "QUOTE",
+   "author": "heraclito",
+   "work": "frag",
+   "ref": "B 101",
+   "text": {
+    "es": "Me he buscado a mí mismo.",
+    "fr": "Je me suis cherché moi-même."
+   }
+  },
+  {
+   "id": "so-apol-38",
+   "kind": "QUOTE",
+   "author": "socrates",
+   "work": "apol",
+   "ref": "38a",
+   "text": {
+    "es": "Una vida sin examen no merece ser vivida.",
+    "fr": "Une vie sans examen ne vaut pas la peine d'être vécue."
+   }
+  },
+  {
+   "id": "so-apol-21",
+   "kind": "QUOTE",
+   "author": "socrates",
+   "work": "apol",
+   "ref": "21d",
+   "text": {
+    "es": "Lo que no sé, tampoco creo saberlo.",
+    "fr": "Ce que je ne sais pas, je ne crois pas non plus le savoir."
+   }
+  },
+  {
+   "id": "so-apol-41",
+   "kind": "QUOTE",
+   "author": "socrates",
+   "work": "apol",
+   "ref": "41d",
+   "text": {
+    "es": "Al hombre bueno no le puede suceder ningún mal, ni en vida ni después de muerto.",
+    "fr": "Il n'y a pas de mal possible pour l'homme de bien, ni pendant sa vie ni après sa mort."
+   }
+  },
+  {
+   "id": "so-gorg-469",
+   "kind": "QUOTE",
+   "author": "socrates",
+   "work": "gorg",
+   "ref": "469c",
+   "text": {
+    "es": "Es peor cometer una injusticia que sufrirla.",
+    "fr": "Il est pire de commettre l'injustice que de la subir."
+   }
+  },
+  {
+   "id": "so-crit-49",
+   "kind": "QUOTE",
+   "author": "socrates",
+   "work": "crit",
+   "ref": "49b",
+   "text": {
+    "es": "No hay que devolver injusticia por injusticia, aunque se sufra la injusticia.",
+    "fr": "Il ne faut pas rendre l'injustice pour l'injustice, même quand on la subit."
+   }
+  },
+  {
+   "id": "di-dl-38",
+   "kind": "QUOTE",
+   "author": "diogenes",
+   "work": "dl",
+   "ref": "VI, 38",
+   "text": {
+    "es": "Apártate un poco, que me quitas el sol.",
+    "fr": "Ôte-toi un peu de mon soleil."
+   }
+  },
+  {
+   "id": "di-dl-63",
+   "kind": "QUOTE",
+   "author": "diogenes",
+   "work": "dl",
+   "ref": "VI, 63",
+   "text": {
+    "es": "Preguntado de dónde era, respondió: «Soy ciudadano del mundo».",
+    "fr": "Comme on lui demandait d'où il était, il répondit : « Je suis citoyen du monde »."
+   }
+  },
+  {
+   "id": "di-dl-105",
+   "kind": "QUOTE",
+   "author": "diogenes",
+   "work": "dl",
+   "ref": "VI, 105",
+   "text": {
+    "es": "Es propio de los dioses no necesitar nada, y de quienes se les parecen, necesitar poco.",
+    "fr": "Le propre des dieux est de n'avoir besoin de rien, et de ceux qui leur ressemblent, d'avoir besoin de peu."
+   }
+  },
+  {
+   "id": "ci-tusc-1",
+   "kind": "QUOTE",
+   "author": "ciceron",
+   "work": "tusc",
+   "ref": "I, 74",
+   "text": {
+    "es": "Toda la vida del filósofo es una preparación para la muerte.",
+    "fr": "Toute la vie du philosophe est une préparation à la mort."
+   }
+  },
+  {
+   "id": "ci-off-1",
+   "kind": "QUOTE",
+   "author": "ciceron",
+   "work": "offic",
+   "ref": "I, 22",
+   "text": {
+    "es": "No hemos nacido solo para nosotros mismos.",
+    "fr": "Nous ne sommes pas nés pour nous seuls."
+   }
+  },
+  {
+   "id": "ci-fam-9",
+   "kind": "QUOTE",
+   "author": "ciceron",
+   "work": "fam",
+   "ref": "IX, 4",
+   "text": {
+    "es": "Si tienes un jardín junto a tu biblioteca, no te faltará nada.",
+    "fr": "Si tu as un jardin auprès de ta bibliothèque, rien ne te manquera."
+   }
+  },
+  {
+   "id": "ci-planc-80",
+   "kind": "QUOTE",
+   "author": "ciceron",
+   "work": "planc",
+   "ref": "80",
+   "text": {
+    "es": "La gratitud no solo es la mayor de las virtudes, sino la madre de todas las demás.",
+    "fr": "La gratitude n'est pas seulement la plus grande des vertus, mais la mère de toutes les autres."
+   }
+  },
+  {
+   "id": "ci-tusc-5",
+   "kind": "QUOTE",
+   "author": "ciceron",
+   "work": "tusc",
+   "ref": "V, 1",
+   "text": {
+    "es": "La virtud se basta a sí misma para vivir feliz.",
+    "fr": "La vertu se suffit à elle-même pour vivre heureux."
+   }
+  },
+  {
+   "id": "bo-cons-2a",
+   "kind": "QUOTE",
+   "author": "boecio",
+   "work": "cons",
+   "ref": "II, 4",
+   "text": {
+    "es": "Nada es desdichado sino cuando así lo juzgas.",
+    "fr": "Rien n'est malheureux que lorsqu'on le juge tel."
+   }
+  },
+  {
+   "id": "bo-cons-2b",
+   "kind": "QUOTE",
+   "author": "boecio",
+   "work": "cons",
+   "ref": "II, 4",
+   "text": {
+    "es": "¿Por qué buscáis fuera la felicidad, que está dentro de vosotros?",
+    "fr": "Pourquoi cherchez-vous au-dehors le bonheur, qui est au-dedans de vous ?"
+   }
+  },
+  {
+   "id": "bo-cons-2c",
+   "kind": "QUOTE",
+   "author": "boecio",
+   "work": "cons",
+   "ref": "II, 2",
+   "text": {
+    "es": "La fortuna gira su rueda: no te quejes de que gire, pues es su naturaleza.",
+    "fr": "La fortune tourne sa roue : ne te plains pas qu'elle tourne, c'est sa nature."
+   }
+  },
+  {
+   "id": "mo-1-20a",
+   "kind": "QUOTE",
+   "author": "montaigne",
+   "work": "essais",
+   "ref": "I, 20",
+   "text": {
+    "es": "Filosofar es aprender a morir.",
+    "fr": "Que philosopher, c'est apprendre à mourir."
+   }
+  },
+  {
+   "id": "mo-1-20b",
+   "kind": "QUOTE",
+   "author": "montaigne",
+   "work": "essais",
+   "ref": "I, 20",
+   "text": {
+    "es": "La utilidad de vivir no está en la duración, sino en el uso.",
+    "fr": "L'utilité du vivre n'est pas en l'espace, elle est en l'usage."
+   }
+  },
+  {
+   "id": "mo-2-6",
+   "kind": "QUOTE",
+   "author": "montaigne",
+   "work": "essais",
+   "ref": "II, 6",
+   "text": {
+    "es": "Mi oficio y mi arte es vivir.",
+    "fr": "Mon métier et mon art, c'est vivre."
+   }
+  },
+  {
+   "id": "mo-1-18",
+   "kind": "QUOTE",
+   "author": "montaigne",
+   "work": "essais",
+   "ref": "I, 18",
+   "text": {
+    "es": "Lo que más temo es el miedo.",
+    "fr": "C'est ce de quoi j'ai le plus de peur que la peur."
+   }
+  },
+  {
+   "id": "mo-3-13",
+   "kind": "QUOTE",
+   "author": "montaigne",
+   "work": "essais",
+   "ref": "III, 13",
+   "text": {
+    "es": "Cuando bailo, bailo; cuando duermo, duermo.",
+    "fr": "Quand je danse, je danse ; quand je dors, je dors."
+   }
+  },
+  {
+   "id": "mo-1-39",
+   "kind": "QUOTE",
+   "author": "montaigne",
+   "work": "essais",
+   "ref": "I, 39",
+   "text": {
+    "es": "Hay que reservarse una trastienda toda nuestra, del todo libre, donde establecer nuestra verdadera libertad.",
+    "fr": "Il se faut réserver une arrière-boutique toute nôtre, toute franche, en laquelle nous établissions notre vraie liberté."
+   }
+  },
+  {
+   "id": "mo-3-13b",
+   "kind": "QUOTE",
+   "author": "montaigne",
+   "work": "essais",
+   "ref": "III, 13",
+   "text": {
+    "es": "Nuestra gran y gloriosa obra maestra es vivir como es debido.",
+    "fr": "Notre grand et glorieux chef-d'œuvre, c'est vivre à propos."
+   }
+  },
+  {
+   "id": "sp-tpol-1",
+   "kind": "QUOTE",
+   "author": "spinoza",
+   "work": "tpol",
+   "ref": "I, 4",
+   "text": {
+    "es": "No reír, no llorar, no detestar, sino comprender.",
+    "fr": "Ne pas rire, ne pas pleurer, ne pas détester, mais comprendre."
+   }
+  },
+  {
+   "id": "sp-et-5",
+   "kind": "QUOTE",
+   "author": "spinoza",
+   "work": "etica",
+   "ref": "V, 42",
+   "text": {
+    "es": "Todo lo excelso es tan difícil como raro.",
+    "fr": "Tout ce qui est précieux est aussi difficile que rare."
+   }
+  },
+  {
+   "id": "sp-et-4",
+   "kind": "QUOTE",
+   "author": "spinoza",
+   "work": "etica",
+   "ref": "IV, 67",
+   "text": {
+    "es": "El hombre libre en nada piensa menos que en la muerte, y su sabiduría es una meditación de la vida.",
+    "fr": "L'homme libre ne pense à rien moins qu'à la mort, et sa sagesse est une méditation de la vie."
+   }
+  },
+  {
+   "id": "pa-139",
+   "kind": "QUOTE",
+   "author": "pascal",
+   "work": "pens",
+   "ref": "139",
+   "text": {
+    "es": "Toda la desdicha de los hombres viene de una sola cosa: no saber permanecer en reposo en una habitación.",
+    "fr": "Tout le malheur des hommes vient d'une seule chose, qui est de ne savoir pas demeurer en repos dans une chambre."
+   }
+  },
+  {
+   "id": "epi-sen-21",
+   "kind": "QUOTE",
+   "author": "epicuro",
+   "work": "citsen",
+   "ref": "21",
+   "text": {
+    "es": "Si quieres hacer rico a Pitocles, no le añadas dinero: quítale deseos.",
+    "fr": "Si tu veux enrichir Pythoclès, n'ajoute pas à son argent : retranche à ses désirs."
+   }
+  },
+  {
+   "id": "epi-sen-11",
+   "kind": "QUOTE",
+   "author": "epicuro",
+   "work": "citsen",
+   "ref": "11",
+   "text": {
+    "es": "Hay que elegir a un hombre de bien y tenerlo siempre ante los ojos, para vivir como si él nos mirara.",
+    "fr": "Il faut choisir un homme de bien et l'avoir toujours devant les yeux, afin de vivre comme s'il nous regardait."
+   }
+  },
+  {
+   "id": "epi-men-125",
+   "kind": "QUOTE",
+   "author": "epicuro",
+   "work": "menec",
+   "ref": "125",
+   "text": {
+    "es": "La muerte no es nada para nosotros: mientras existimos, ella no está; cuando ella llega, ya no existimos.",
+    "fr": "La mort n'est rien pour nous : tant que nous sommes, la mort n'est pas là ; et quand la mort est là, nous ne sommes plus."
+   }
+  },
+  {
+   "id": "mu-tierra-1",
+   "kind": "QUOTE",
+   "author": "musashi",
+   "work": "gorin",
+   "ref": "I",
+   "text": {
+    "es": "No pienses de manera deshonesta.",
+    "fr": "Ne pense pas de façon malhonnête."
+   }
+  },
+  {
+   "id": "mu-tierra-2",
+   "kind": "QUOTE",
+   "author": "musashi",
+   "work": "gorin",
+   "ref": "I",
+   "text": {
+    "es": "El Camino está en el entrenamiento.",
+    "fr": "La Voie est dans l'entraînement."
+   }
+  },
+  {
+   "id": "mu-tierra-3",
+   "kind": "QUOTE",
+   "author": "musashi",
+   "work": "gorin",
+   "ref": "I",
+   "text": {
+    "es": "Percibe lo que no puede verse con los ojos.",
+    "fr": "Perçois ce qui ne peut être vu par les yeux."
+   }
+  },
+  {
+   "id": "mu-tierra-4",
+   "kind": "QUOTE",
+   "author": "musashi",
+   "work": "gorin",
+   "ref": "I",
+   "text": {
+    "es": "Presta atención incluso a las cosas pequeñas.",
+    "fr": "Prête attention même aux petites choses."
+   }
+  },
+  {
+   "id": "mu-tierra-5",
+   "kind": "QUOTE",
+   "author": "musashi",
+   "work": "gorin",
+   "ref": "I",
+   "text": {
+    "es": "No hagas nada que no sirva.",
+    "fr": "Ne fais rien d'inutile."
+   }
+  },
+  {
+   "id": "mu-agua-1",
+   "kind": "QUOTE",
+   "author": "musashi",
+   "work": "gorin",
+   "ref": "II",
+   "text": {
+    "es": "Mira lo lejano como si estuviera cerca y lo cercano como si estuviera lejos.",
+    "fr": "Regarde ce qui est lointain comme s'il était proche, et ce qui est proche comme s'il était lointain."
+   }
+  },
+  {
+   "id": "mu-agua-2",
+   "kind": "QUOTE",
+   "author": "musashi",
+   "work": "gorin",
+   "ref": "II",
+   "text": {
+    "es": "Que tu ánimo en el combate sea el de todos los días, y tu ánimo de todos los días, el del combate.",
+    "fr": "Que ton esprit au combat soit celui de chaque jour, et ton esprit de chaque jour, celui du combat."
+   }
+  },
+  {
+   "id": "mu-agua-3",
+   "kind": "QUOTE",
+   "author": "musashi",
+   "work": "gorin",
+   "ref": "II",
+   "text": {
+    "es": "Mil días de práctica para forjar; diez mil días para pulir.",
+    "fr": "Mille jours d'exercice pour forger ; dix mille jours pour polir."
+   }
+  },
+  {
+   "id": "mu-dok-1",
+   "kind": "QUOTE",
+   "author": "musashi",
+   "work": "dokkodo",
+   "ref": "1",
+   "text": {
+    "es": "Acepta todo tal como es.",
+    "fr": "Accepte toute chose telle qu'elle est."
+   }
+  },
+  {
+   "id": "mu-dok-2",
+   "kind": "QUOTE",
+   "author": "musashi",
+   "work": "dokkodo",
+   "ref": "2",
+   "text": {
+    "es": "No busques el placer por sí mismo.",
+    "fr": "Ne recherche pas le plaisir pour lui-même."
+   }
+  },
+  {
+   "id": "mu-dok-4",
+   "kind": "QUOTE",
+   "author": "musashi",
+   "work": "dokkodo",
+   "ref": "4",
+   "text": {
+    "es": "Piensa a la ligera en ti mismo y profundamente en el mundo.",
+    "fr": "Pense légèrement à toi-même et profondément au monde."
+   }
+  },
+  {
+   "id": "mu-dok-6",
+   "kind": "QUOTE",
+   "author": "musashi",
+   "work": "dokkodo",
+   "ref": "6",
+   "text": {
+    "es": "No te arrepientas de lo que has hecho.",
+    "fr": "Ne regrette pas ce que tu as fait."
+   }
+  },
+  {
+   "id": "mu-dok-7",
+   "kind": "QUOTE",
+   "author": "musashi",
+   "work": "dokkodo",
+   "ref": "7",
+   "text": {
+    "es": "Nunca sientas envidia.",
+    "fr": "Ne sois jamais jaloux."
+   }
+  },
+  {
+   "id": "mu-dok-8",
+   "kind": "QUOTE",
+   "author": "musashi",
+   "work": "dokkodo",
+   "ref": "8",
+   "text": {
+    "es": "No dejes que una separación te entristezca.",
+    "fr": "Ne te laisse jamais attrister par une séparation."
+   }
+  },
+  {
+   "id": "mu-dok-9",
+   "kind": "QUOTE",
+   "author": "musashi",
+   "work": "dokkodo",
+   "ref": "9",
+   "text": {
+    "es": "El resentimiento y la queja no convienen ni a uno mismo ni a los demás.",
+    "fr": "Le ressentiment et la plainte ne conviennent ni à soi-même ni aux autres."
+   }
+  },
+  {
+   "id": "mu-dok-19",
+   "kind": "QUOTE",
+   "author": "musashi",
+   "work": "dokkodo",
+   "ref": "19",
+   "text": {
+    "es": "Respeta a los budas y a los dioses sin contar con su ayuda.",
+    "fr": "Respecte les bouddhas et les dieux sans compter sur leur aide."
+   }
+  },
+  {
+   "id": "mu-dok-21",
+   "kind": "QUOTE",
+   "author": "musashi",
+   "work": "dokkodo",
+   "ref": "21",
+   "text": {
+    "es": "Nunca te apartes del Camino.",
+    "fr": "Ne t'écarte jamais de la Voie."
+   }
+  },
+  {
+   "id": "ts-muerte",
+   "kind": "QUOTE",
+   "author": "tsunetomo",
+   "work": "hagakure",
+   "ref": "I",
+   "text": {
+    "es": "He descubierto que el camino del samurái es la muerte.",
+    "fr": "J'ai découvert que la Voie du samouraï, c'est la mort."
+   }
+  },
+  {
+   "id": "ts-momento",
+   "kind": "QUOTE",
+   "author": "tsunetomo",
+   "work": "hagakure",
+   "ref": "II",
+   "text": {
+    "es": "No hay nada más que el propósito del momento presente. Toda la vida de una persona es una sucesión de momentos.",
+    "fr": "Il n'y a rien d'autre que le but du moment présent. Toute la vie d'un homme est une succession de moments."
+   }
+  },
+  {
+   "id": "ts-siete",
+   "kind": "QUOTE",
+   "author": "tsunetomo",
+   "work": "hagakure",
+   "ref": "I",
+   "text": {
+    "es": "Las decisiones deben tomarse en el espacio de siete respiraciones.",
+    "fr": "Les décisions doivent se prendre dans l'espace de sept respirations."
+   }
+  },
+  {
+   "id": "ts-ligereza",
+   "kind": "QUOTE",
+   "author": "tsunetomo",
+   "work": "hagakure",
+   "ref": "I",
+   "text": {
+    "es": "Los asuntos de gran importancia deben tratarse con ligereza; los de poca importancia, con seriedad.",
+    "fr": "Les affaires de grande importance doivent être traitées avec légèreté ; celles de peu d'importance, avec sérieux."
+   }
+  },
+  {
+   "id": "ts-lluvia",
+   "kind": "QUOTE",
+   "author": "tsunetomo",
+   "work": "hagakure",
+   "ref": "II",
+   "text": {
+    "es": "Hay algo que aprender de un aguacero. Si corres para no mojarte, igual te mojas. Si desde el principio aceptas mojarte, no te turbarás, aunque te empapes igual. Esto vale para todo.",
+    "fr": "Il y a quelque chose à apprendre d'une averse. Si tu cours pour ne pas être mouillé, tu l'es quand même. Si dès le début tu acceptes d'être mouillé, tu ne seras pas troublé, même trempé de la même façon. Cela vaut pour tout."
+   }
+  },
+  {
+   "id": "ni-rectitud",
+   "kind": "QUOTE",
+   "author": "nitobe",
+   "work": "bushido",
+   "ref": "III",
+   "text": {
+    "es": "La rectitud es el hueso que da firmeza y estatura.",
+    "fr": "La droiture est l'os qui donne fermeté et stature."
+   }
+  },
+  {
+   "id": "ni-cortesia",
+   "kind": "QUOTE",
+   "author": "nitobe",
+   "work": "bushido",
+   "ref": "VI",
+   "text": {
+    "es": "La cortesía es una pobre virtud si nace solo del miedo a ofender el buen gusto; debería ser la expresión exterior de una consideración sincera por los sentimientos de los demás.",
+    "fr": "La politesse est une pauvre vertu si elle ne naît que de la crainte d'offenser le bon goût ; elle devrait être la manifestation extérieure d'un égard sincère pour les sentiments d'autrui."
+   }
+  },
+  {
+   "id": "co-valor",
+   "kind": "QUOTE",
+   "author": "confucio",
+   "work": "anal",
+   "ref": "II, 24",
+   "text": {
+    "es": "Ver lo que es justo y no hacerlo es falta de valor.",
+    "fr": "Voir ce qui est juste et ne pas le faire, c'est manquer de courage."
+   }
+  },
+  {
+   "id": "ta-mente",
+   "kind": "QUOTE",
+   "author": "takuan",
+   "work": "fudochi",
+   "ref": "",
+   "text": {
+    "es": "La mente no debe detenerse en ningún lugar. Donde se detiene, queda atrapada.",
+    "fr": "L'esprit ne doit s'arrêter nulle part. Là où il s'arrête, il est captif."
+   }
+  },
+  {
+   "id": "pj-siete",
+   "kind": "QUOTE",
+   "author": "proverbio-jp",
+   "work": "trad",
+   "ref": "",
+   "text": {
+    "es": "Cae siete veces, levántate ocho.",
+    "fr": "Tombe sept fois, relève-toi huit."
+   }
+  },
+  {
+   "id": "pr-control",
+   "kind": "PRACTICE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "1",
+   "title": {
+    "es": "Dicotomía del control",
+    "fr": "La dichotomie du contrôle"
+   },
+   "text": {
+    "es": "Piensa en lo que hoy te inquieta y pregúntate: ¿depende de mí? Si depende, actúa. Si no, suéltalo y vuelve a lo que sí está en tu mano.",
+    "fr": "Pense à ce qui t'inquiète aujourd'hui et demande-toi : est-ce que cela dépend de moi ? Si oui, agis. Sinon, lâche prise et reviens à ce qui est en ton pouvoir."
+   }
+  },
+  {
+   "id": "pr-premeditatio",
+   "kind": "PRACTICE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "91",
+   "title": {
+    "es": "Premeditación de los males",
+    "fr": "La préméditation des maux"
+   },
+   "text": {
+    "es": "Imagina con calma que hoy algo saldrá mal: un retraso, una crítica, una pérdida. Ensáyalo sin dramatismo. Lo que se ha previsto llega con menos fuerza.",
+    "fr": "Imagine calmement qu'aujourd'hui quelque chose tournera mal : un retard, une critique, une perte. Répète-le sans dramatiser. Ce qui a été prévu frappe moins fort."
+   }
+  },
+  {
+   "id": "pr-examen",
+   "kind": "PRACTICE",
+   "author": "seneca",
+   "work": "ira",
+   "ref": "III, 36",
+   "title": {
+    "es": "Examen de la noche",
+    "fr": "L'examen du soir"
+   },
+   "text": {
+    "es": "Antes de dormir, repasa tu día sin juzgarte con dureza: ¿qué mal he corregido hoy? ¿Qué impulso he resistido? ¿En qué soy mejor?",
+    "fr": "Avant de dormir, repasse ta journée sans te juger durement : quel défaut ai-je corrigé aujourd'hui ? À quel élan ai-je résisté ? En quoi suis-je meilleur ?"
+   }
+  },
+  {
+   "id": "pr-arriba",
+   "kind": "PRACTICE",
+   "author": "marco",
+   "work": "med",
+   "ref": "IX, 30",
+   "title": {
+    "es": "La mirada desde lo alto",
+    "fr": "Le regard d'en haut"
+   },
+   "text": {
+    "es": "Cierra los ojos y elévate: tu casa, tu ciudad, el país, la Tierra entera. Mira desde ahí lo que te preocupa y observa qué tamaño tiene ahora.",
+    "fr": "Ferme les yeux et élève-toi : ta maison, ta ville, le pays, la Terre entière. Regarde d'en haut ce qui te préoccupe et vois quelle taille il a maintenant."
+   }
+  },
+  {
+   "id": "pr-memento",
+   "kind": "PRACTICE",
+   "author": "marco",
+   "work": "med",
+   "ref": "II, 11",
+   "title": {
+    "es": "Memento mori",
+    "fr": "Memento mori"
+   },
+   "text": {
+    "es": "Haz lo próximo que tengas que hacer como si pudieras dejar la vida ahora mismo. No para temer, sino para no aplazar lo que importa.",
+    "fr": "Fais la prochaine chose comme si tu pouvais quitter la vie à l'instant. Non pour craindre, mais pour ne pas remettre ce qui compte."
+   }
+  },
+  {
+   "id": "pr-incomodidad",
+   "kind": "PRACTICE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "18",
+   "title": {
+    "es": "Incomodidad voluntaria",
+    "fr": "L'inconfort volontaire"
+   },
+   "text": {
+    "es": "Elige hoy una pequeña privación: una ducha fría, una comida sencilla, caminar en vez de ir en coche. Comprueba que lo que temías es soportable.",
+    "fr": "Choisis aujourd'hui une petite privation : une douche froide, un repas simple, marcher plutôt que prendre la voiture. Constate que ce que tu craignais est supportable."
+   }
+  },
+  {
+   "id": "pr-amorfati",
+   "kind": "PRACTICE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VII, 57",
+   "title": {
+    "es": "Amor fati",
+    "fr": "Amor fati"
+   },
+   "text": {
+    "es": "Piensa en algo que no salió como querías y pregúntate qué virtud te permite practicar: paciencia, humildad, coraje. Acógelo como material de trabajo.",
+    "fr": "Pense à quelque chose qui ne s'est pas passé comme tu le voulais et demande-toi quelle vertu cela te permet d'exercer : patience, humilité, courage. Accueille-le comme une matière à travailler."
+   }
+  },
+  {
+   "id": "pr-mortal",
+   "kind": "PRACTICE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "3",
+   "title": {
+    "es": "Lo que se nos presta",
+    "fr": "Ce qui nous est prêté"
+   },
+   "text": {
+    "es": "Cuando abraces a alguien a quien quieres, recuerda que es mortal. No para entristecerte, sino para estar del todo en este abrazo.",
+    "fr": "Quand tu embrasses quelqu'un que tu aimes, rappelle-toi qu'il est mortel. Non pour t'attrister, mais pour être tout entier dans cette étreinte."
+   }
+  },
+  {
+   "id": "pr-jarra",
+   "kind": "PRACTICE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "3",
+   "title": {
+    "es": "Empezar por lo pequeño",
+    "fr": "Commencer par les petites choses"
+   },
+   "text": {
+    "es": "Ante cada cosa que aprecias, di qué es: «aprecio una taza». Si se rompe, no te turbará. Empieza por objetos pequeños y ve ampliando el ejercicio.",
+    "fr": "Pour chaque chose que tu aimes, dis ce qu'elle est : « j'aime une tasse ». Si elle se brise, tu ne seras pas troublé. Commence par de petits objets, puis élargis l'exercice."
+   }
+  },
+  {
+   "id": "pr-manana",
+   "kind": "PRACTICE",
+   "author": "marco",
+   "work": "med",
+   "ref": "II, 1",
+   "title": {
+    "es": "Preparación de la mañana",
+    "fr": "La préparation du matin"
+   },
+   "text": {
+    "es": "Antes de empezar, anticipa con quién te cruzarás hoy y decide de antemano cómo quieres responder, incluso si te provocan.",
+    "fr": "Avant de commencer, anticipe qui tu croiseras aujourd'hui et décide d'avance comment tu veux répondre, même si l'on te provoque."
+   }
+  },
+  {
+   "id": "pr-pausa",
+   "kind": "PRACTICE",
+   "author": "seneca",
+   "work": "ira",
+   "ref": "II, 29",
+   "title": {
+    "es": "La pausa ante la ira",
+    "fr": "La pause devant la colère"
+   },
+   "text": {
+    "es": "Si notas que te enfadas, espera. Respira tres veces y no respondas hasta que la primera ola haya pasado.",
+    "fr": "Si tu sens la colère monter, attends. Respire trois fois et ne réponds pas avant que la première vague soit passée."
+   }
+  },
+  {
+   "id": "pr-cuaderno",
+   "kind": "PRACTICE",
+   "author": "marco",
+   "work": "med",
+   "ref": "I–XII",
+   "title": {
+    "es": "Escribir para uno mismo",
+    "fr": "Écrire pour soi-même"
+   },
+   "text": {
+    "es": "Escribe hoy tres líneas solo para ti, como Marco Aurelio en sus cuadernos «A sí mismo»: qué te ha pesado y qué principio quieres recordar.",
+    "fr": "Écris aujourd'hui trois lignes pour toi seul, comme Marc Aurèle dans ses carnets « À soi-même » : ce qui t'a pesé et quel principe tu veux te rappeler."
+   }
+  },
+  {
+   "id": "pr-circulos",
+   "kind": "PRACTICE",
+   "author": "hierocles",
+   "work": "stob",
+   "ref": "IV, 27",
+   "title": {
+    "es": "Los círculos de Hierocles",
+    "fr": "Les cercles de Hiéroclès"
+   },
+   "text": {
+    "es": "Imagina círculos alrededor de ti: tu familia, tus amigos, tu ciudad, la humanidad. Acerca hoy un círculo exterior hacia el centro con un gesto amable.",
+    "fr": "Imagine des cercles autour de toi : ta famille, tes amis, ta ville, l'humanité. Rapproche aujourd'hui un cercle extérieur du centre par un geste bienveillant."
+   }
+  },
+  {
+   "id": "pr-reserva",
+   "kind": "PRACTICE",
+   "author": "seneca",
+   "work": "tranq",
+   "ref": "13",
+   "title": {
+    "es": "La cláusula de reserva",
+    "fr": "La clause de réserve"
+   },
+   "text": {
+    "es": "Haz tus planes añadiendo «si nada lo impide». Pon todo tu empeño en el intento y deja el resultado en manos de lo que no depende de ti.",
+    "fr": "Fais tes projets en ajoutant « si rien ne l'empêche ». Mets toute ton ardeur dans l'effort et laisse le résultat à ce qui ne dépend pas de toi."
+   }
+  },
+  {
+   "id": "pr-impresion",
+   "kind": "PRACTICE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "1",
+   "title": {
+    "es": "Examinar la impresión",
+    "fr": "Examiner la représentation"
+   },
+   "text": {
+    "es": "Ante una impresión fuerte, dile: «eres una impresión, no la cosa que pareces». Después pregúntate si lo que muestra depende de ti.",
+    "fr": "Devant une représentation forte, dis-lui : « tu n'es qu'une représentation, non la chose que tu sembles être ». Puis demande-toi si ce qu'elle montre dépend de toi."
+   }
+  },
+  {
+   "id": "pr-presente",
+   "kind": "PRACTICE",
+   "author": "marco",
+   "work": "med",
+   "ref": "III, 10",
+   "title": {
+    "es": "Solo este instante",
+    "fr": "Seulement cet instant"
+   },
+   "text": {
+    "es": "Deja durante un minuto el pasado y el futuro. Respira y atiende solo a lo que hay ahora: el cuerpo, el sonido, la tarea que tienes delante.",
+    "fr": "Laisse pendant une minute le passé et l'avenir. Respire et ne sois attentif qu'à ce qui est là : le corps, les sons, la tâche devant toi."
+   }
+  },
+  {
+   "id": "pr-retiro",
+   "kind": "PRACTICE",
+   "author": "marco",
+   "work": "med",
+   "ref": "IV, 3",
+   "title": {
+    "es": "El retiro interior",
+    "fr": "La retraite intérieure"
+   },
+   "text": {
+    "es": "Busca un minuto de silencio. Vuelve a tus principios en pocas palabras, como quien se retira a un refugio, y regresa renovado a lo que hacías.",
+    "fr": "Cherche une minute de silence. Reviens à tes principes en peu de mots, comme on se retire dans un refuge, et retourne renouvelé à ce que tu faisais."
+   }
+  },
+  {
+   "id": "pr-gratitud",
+   "kind": "PRACTICE",
+   "author": "marco",
+   "work": "med",
+   "ref": "I",
+   "title": {
+    "es": "La gratitud del libro primero",
+    "fr": "La gratitude du premier livre"
+   },
+   "text": {
+    "es": "Como Marco Aurelio al empezar sus Meditaciones, escribe el nombre de tres personas y lo que aprendiste de cada una.",
+    "fr": "Comme Marc Aurèle au début de ses Pensées, écris le nom de trois personnes et ce que tu as appris de chacune."
+   }
+  },
+  {
+   "id": "pr-banquete",
+   "kind": "PRACTICE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "15",
+   "title": {
+    "es": "El banquete",
+    "fr": "Le banquet"
+   },
+   "text": {
+    "es": "Hoy, ante algo que deseas, toma tu parte con mesura cuando llegue y deja pasar lo que no llega, sin perseguirlo.",
+    "fr": "Aujourd'hui, devant ce que tu désires, prends ta part avec mesure quand elle vient et laisse passer ce qui ne vient pas, sans le poursuivre."
+   }
+  },
+  {
+   "id": "pr-actor",
+   "kind": "PRACTICE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "17",
+   "title": {
+    "es": "El papel que te toca",
+    "fr": "Le rôle qui t'échoit"
+   },
+   "text": {
+    "es": "Nombra uno de tus papeles de hoy: hijo, madre, compañero, vecino. Pregúntate qué significa representarlo bien y hazlo.",
+    "fr": "Nomme l'un de tes rôles d'aujourd'hui : fils, mère, collègue, voisin. Demande-toi ce que signifie bien le jouer, et fais-le."
+   }
+  },
+  {
+   "id": "pr-modelo",
+   "kind": "PRACTICE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "11",
+   "title": {
+    "es": "Elegir un modelo",
+    "fr": "Choisir un modèle"
+   },
+   "text": {
+    "es": "Elige a alguien a quien admires por su carácter. Ante una decisión de hoy, pregúntate qué haría esa persona si te estuviera mirando.",
+    "fr": "Choisis quelqu'un que tu admires pour son caractère. Devant une décision d'aujourd'hui, demande-toi ce que ferait cette personne si elle te regardait."
+   }
+  },
+  {
+   "id": "pr-socrates",
+   "kind": "PRACTICE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "33",
+   "title": {
+    "es": "¿Qué haría Sócrates?",
+    "fr": "Que ferait Socrate ?"
+   },
+   "text": {
+    "es": "Ante una situación difícil, pregúntate qué habrían hecho Sócrates o Zenón. Deja que su ejemplo te sugiera la respuesta.",
+    "fr": "Devant une situation difficile, demande-toi ce qu'auraient fait Socrate ou Zénon. Laisse leur exemple te souffler la réponse."
+   }
+  },
+  {
+   "id": "pr-deseo",
+   "kind": "PRACTICE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "34",
+   "title": {
+    "es": "Esperar ante el placer",
+    "fr": "Attendre devant le plaisir"
+   },
+   "text": {
+    "es": "Si te atrae un placer, date un tiempo antes de ceder. Imagina el momento de disfrutarlo y el que vendrá después, y compara.",
+    "fr": "Si un plaisir t'attire, accorde-toi un délai avant de céder. Imagine le moment où tu en jouis et celui qui suivra, et compare."
+   }
+  },
+  {
+   "id": "pr-sinqueja",
+   "kind": "PRACTICE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "48",
+   "title": {
+    "es": "Un día sin quejas",
+    "fr": "Une journée sans plainte"
+   },
+   "text": {
+    "es": "Pasa hoy un día sin quejarte de nadie ni de nada. Cada vez que te sorprendas haciéndolo, vuelve a empezar sin reproches.",
+    "fr": "Passe aujourd'hui une journée sans te plaindre de personne ni de rien. Chaque fois que tu t'y surprends, recommence sans reproche."
+   }
+  },
+  {
+   "id": "pr-descomponer",
+   "kind": "PRACTICE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VI, 13",
+   "title": {
+    "es": "Ver las cosas desnudas",
+    "fr": "Voir les choses à nu"
+   },
+   "text": {
+    "es": "Describe algo que te deslumbra con palabras simples, como Marco Aurelio veía la púrpura como lana teñida. Mira qué queda de su brillo.",
+    "fr": "Décris une chose qui t'éblouit en mots simples, comme Marc Aurèle voyait dans la pourpre de la laine teinte. Vois ce qui reste de son éclat."
+   }
+  },
+  {
+   "id": "pr-tiempo",
+   "kind": "PRACTICE",
+   "author": "marco",
+   "work": "med",
+   "ref": "IV, 32",
+   "title": {
+    "es": "Los tiempos de Vespasiano",
+    "fr": "Le temps de Vespasien"
+   },
+   "text": {
+    "es": "Imagina a la gente de hace dos mil años: casándose, discutiendo, ambicionando. Ya no queda nada. Mira tu preocupación con esa perspectiva.",
+    "fr": "Imagine les gens d'il y a deux mille ans : se mariant, se disputant, ambitionnant. Il n'en reste rien. Regarde ton souci avec ce recul."
+   }
+  },
+  {
+   "id": "pr-lectura",
+   "kind": "PRACTICE",
+   "author": "seneca",
+   "work": "luc",
+   "ref": "2",
+   "title": {
+    "es": "Una idea para el día",
+    "fr": "Une pensée pour la journée"
+   },
+   "text": {
+    "es": "No leas mucho: lee bien. Elige una sola idea de lo que leas hoy y llévala contigo hasta la noche.",
+    "fr": "Ne lis pas beaucoup : lis bien. Choisis une seule idée parmi tes lectures d'aujourd'hui et garde-la avec toi jusqu'au soir."
+   }
+  },
+  {
+   "id": "pr-silencio",
+   "kind": "PRACTICE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "33",
+   "title": {
+    "es": "Hablar poco",
+    "fr": "Parler peu"
+   },
+   "text": {
+    "es": "En tu próxima conversación, habla menos de lo habitual. Escucha hasta el final antes de responder y di solo lo necesario.",
+    "fr": "Dans ta prochaine conversation, parle moins que d'habitude. Écoute jusqu'au bout avant de répondre et ne dis que le nécessaire."
+   }
+  },
+  {
+   "id": "pr-cosmos",
+   "kind": "PRACTICE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VII, 47",
+   "title": {
+    "es": "Contemplar las estrellas",
+    "fr": "Contempler les étoiles"
+   },
+   "text": {
+    "es": "Esta noche, mira el cielo un momento y sigue con la mirada el curso de los astros. Deja que su orden aquiete el tuyo.",
+    "fr": "Ce soir, regarde le ciel un instant et suis du regard la course des astres. Laisse leur ordre apaiser le tien."
+   }
+  },
+  {
+   "id": "pr-ciudadano",
+   "kind": "PRACTICE",
+   "author": "marco",
+   "work": "med",
+   "ref": "VI, 44",
+   "title": {
+    "es": "Ciudadano del mundo",
+    "fr": "Citoyen du monde"
+   },
+   "text": {
+    "es": "Haz hoy algo pequeño por alguien que no conoces: ceder el paso, recoger algo, una palabra amable. Formas parte del mismo todo.",
+    "fr": "Fais aujourd'hui quelque chose de petit pour un inconnu : céder le passage, ramasser quelque chose, un mot aimable. Vous faites partie du même tout."
+   }
+  },
+  {
+   "id": "pr-insulto",
+   "kind": "PRACTICE",
+   "author": "epicteto",
+   "work": "ench",
+   "ref": "33",
+   "title": {
+    "es": "Responder con humor",
+    "fr": "Répondre avec humour"
+   },
+   "text": {
+    "es": "Si alguien te critica hoy, en lugar de defenderte, considera si tiene razón; y si no, deja que la crítica pase como el viento.",
+    "fr": "Si quelqu'un te critique aujourd'hui, au lieu de te défendre, demande-toi s'il a raison ; sinon, laisse passer la critique comme le vent."
+   }
+  },
+  {
+   "id": "pr-siete-resp",
+   "kind": "PRACTICE",
+   "author": "tsunetomo",
+   "work": "hagakure",
+   "ref": "I",
+   "title": {
+    "es": "Siete respiraciones",
+    "fr": "Sept respirations"
+   },
+   "text": {
+    "es": "Antes de la próxima decisión de hoy, haz siete respiraciones lentas. Después decide, y no vuelvas atrás.",
+    "fr": "Avant la prochaine décision de ta journée, prends sept respirations lentes. Puis décide, et ne reviens pas en arrière."
+   }
+  },
+  {
+   "id": "pr-aguacero",
+   "kind": "PRACTICE",
+   "author": "tsunetomo",
+   "work": "hagakure",
+   "ref": "II",
+   "title": {
+    "es": "Aceptar la lluvia",
+    "fr": "Accepter la pluie"
+   },
+   "text": {
+    "es": "Cuando hoy llegue una molestia inevitable, no corras para esquivarla: acéptala desde el principio y observa cómo pesa menos.",
+    "fr": "Quand un désagrément inévitable arrivera aujourd'hui, ne cours pas pour l'esquiver : accepte-le dès le début et observe comme il pèse moins."
+   }
+  },
+  {
+   "id": "pr-detalle",
+   "kind": "PRACTICE",
+   "author": "musashi",
+   "work": "gorin",
+   "ref": "I",
+   "title": {
+    "es": "Atención a lo pequeño",
+    "fr": "Attention aux petites choses"
+   },
+   "text": {
+    "es": "Elige una tarea pequeña de hoy, como lavar una taza o atarte los zapatos, y hazla con toda tu atención, como un ejercicio del Camino.",
+    "fr": "Choisis une petite tâche d'aujourd'hui, comme laver une tasse ou lacer tes chaussures, et fais-la avec toute ton attention, comme un exercice de la Voie."
+   }
+  }
+ ]
+}
